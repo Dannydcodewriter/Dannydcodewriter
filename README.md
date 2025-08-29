@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @Dannydcodewriter
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML/CSS/Javascript
-- 💞️ I’m looking to collaborate on project related to web development to enhance my skills
-- 📫 How to reach me on nwakozochukwuka@gmail.com or via whatsapp @+2349090865002 
+👋 Hi, I’m Daniel
 
-<!---
-Dannydcodewriter/Dannydcodewriter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Software Engineer with a BSc (Hons) in Information Technology, passionate about building scalable web applications and mentoring the next generation of tech innovators.
+
+💻 Tech Stack & Expertise
+
+Frontend: React, Next.js, TypeScript, JavaScript
+
+Backend: Node.js, Express
+
+Tools: Git, GitHub, REST APIs, Firebase
+
+Interests: Scalable systems, UI/UX, and cloud applications
+
+🌍 What I Do
+
+Build and contribute to projects that solve real-world problems
+
+Mentor and teach young people the foundations of technology
+
+Volunteer my time and skills to causes that matter
+
+✨ Beyond Code
+I believe technology should empower people, not just exist. Whether it’s writing clean code, teaching kids, or volunteering in my community, my goal is simple: use tech to create impact.
+
+📫 Let’s Connect
+
+LinkedIn: linkedin.com/in/nwakozo-daniel
+
+Portfolio/Website: https://daniel-chukwuka.netlify.app/
+
+Email: chukwukadaniel.work@gmail.com
+
